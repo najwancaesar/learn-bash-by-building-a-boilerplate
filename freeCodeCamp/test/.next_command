@@ -48,3 +48,4 @@ __vsc_prompt_cmd_original
 test freeCodeCamp
 cd freeCodeCamp
 cd test
+pwd test
