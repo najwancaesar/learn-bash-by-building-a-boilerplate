@@ -52,3 +52,5 @@ pwd test
 ls --color=auto
 cd ..
 ls --color=auto
+more test
+more freeCodeCamp
