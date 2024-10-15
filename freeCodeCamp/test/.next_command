@@ -49,3 +49,4 @@ test freeCodeCamp
 cd freeCodeCamp
 cd test
 pwd test
+ls --color=auto
