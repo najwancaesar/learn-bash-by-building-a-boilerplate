@@ -37,3 +37,6 @@ __vsc_prompt_cmd_original
 cd my project
 cd freecodecamp
 cd freeCodeCamp
+ls --color=auto
+freeCodeCamp
+pwd freeCodeCamp
