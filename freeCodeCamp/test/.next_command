@@ -41,3 +41,10 @@ ls --color=auto
 freeCodeCamp
 pwd freeCodeCamp
 ls --color=auto freeCodeCamp
+test
+test
+test freeCodeCamp
+__vsc_prompt_cmd_original
+test freeCodeCamp
+cd freeCodeCamp
+cd test
