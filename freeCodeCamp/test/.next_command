@@ -40,3 +40,4 @@ cd freeCodeCamp
 ls --color=auto
 freeCodeCamp
 pwd freeCodeCamp
+ls --color=auto freeCodeCamp
