@@ -57,3 +57,5 @@ rmdir fonts
 ls --color=auto
 rmdir --help --rm
 rm --help
+find
+rm -r fonts
