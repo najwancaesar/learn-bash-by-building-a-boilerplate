@@ -5,3 +5,8 @@ mv images/footer.jpeg client/assets/images
 find -name images
 find
 rmdir images
+find -name images
+ls --color=auto
+cd images
+ls --color=auto
+rm background.jpg
