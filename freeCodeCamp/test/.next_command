@@ -28,3 +28,20 @@ mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+ls --color=auto
+touch roboto-bold.woff client/assets/fonts
+find -name fonts
+find -name roboto-bold.woff
+ls --color=auto
+mv roboto-bold.woff client/assets/fonts
+find -name fonts
+find -roboto-bold.woff
+ls --color=auto
+cd client/assets
+ls --color=auto
+cd fonts
+ls --color=auto
+rm roboto-bold.woff
+ls --color=auto
+cd ../../..
+touch client/assets/fonts/roboto-bold.woff
