@@ -238,3 +238,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git commit -m "Save progress"
 git push origin main
+echo hello terminal
+exit
