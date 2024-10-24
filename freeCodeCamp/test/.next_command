@@ -131,3 +131,11 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git push --help
 git status
 git add .
+git commit -m "Menambahkan progress pembelajaran"
+git push origin main
+git pull origin main
+git add PROJECT
+git commit -m "menyelesaikan konflik"
+git push origin main
+git push origin main --force
+exit
