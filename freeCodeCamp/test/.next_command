@@ -51,3 +51,9 @@ find client/assets/fonts
 touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
+find --help
+find --help rm
+rmdir fonts
+ls --color=auto
+rmdir --help --rm
+rm --help
