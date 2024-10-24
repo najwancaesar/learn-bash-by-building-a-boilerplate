@@ -21,3 +21,4 @@ rmdir icons
 cd ../..
 ls --color=auto
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons
