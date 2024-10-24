@@ -59,3 +59,4 @@ rmdir --help --rm
 rm --help
 find
 rm -r fonts
+ls --color=auto
